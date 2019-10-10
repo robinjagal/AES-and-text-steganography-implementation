@@ -1,4 +1,7 @@
 # Text-Steganography-and-AES-encryption
+
+Run the run.exe file to encrypt/decrypt information in/from any docx file.
+
 In this project, files and information are hidden in text documents using AES cryptography followed by Text-Steganography.
 
 Encryption:
