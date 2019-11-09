@@ -1,4 +1,4 @@
-# Text-Steganography-and-AES-encryption
+#AES and text steganography implementation using Python 3
 
 Run the run.exe file to encrypt or decrypt information to/from any docx file using a key.
 
